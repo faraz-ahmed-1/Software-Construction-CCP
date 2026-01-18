@@ -1,4 +1,3 @@
-package hotel;
 public class RoomType {
     private final String roomKind;
     private final double cost;

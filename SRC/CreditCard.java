@@ -1,4 +1,3 @@
-package hotel;
 public class CreditCard {
     private final String number;
 

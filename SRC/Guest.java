@@ -1,4 +1,3 @@
-package hotel;
 public class Guest {
     private final Name name;
     private final Address addressDetails;

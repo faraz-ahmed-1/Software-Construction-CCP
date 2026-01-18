@@ -1,4 +1,3 @@
-package hotel;
 public class Room {
     private final int number;
     private Guest occupied;
